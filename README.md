@@ -181,5 +181,3 @@ tests/
 
 ---
 
-*Submission: hr@aerele.in | CC: vignesh@aerele.in*  
-*Subject: Assignment Submission - Event Scheduling & Resource Allocation System*
